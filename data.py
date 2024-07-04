@@ -101,4 +101,3 @@ question_data = [
     }
 ]
 
-question_data[2]["question"]
